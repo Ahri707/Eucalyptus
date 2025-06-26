@@ -1,2 +1,2 @@
 # Eucalyptus
-Repositório do código do App Eucalyptus
+Repositório do código do App Eucalyptus.
